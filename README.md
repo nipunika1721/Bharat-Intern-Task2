@@ -2,7 +2,7 @@
 
 # Netflix Homepage Replica 🍿🎬
 
-Project Link: 
+Project Link: https://nipunika1721.github.io/Bharat-Intern-Task2/
 
 ## Project Overview
 
